@@ -1,0 +1,3013 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+		<channel>
+				<ttl>60</ttl>
+
+				<generator>acast.com</generator>
+
+				<title>111a Night Sleep Pod</title>
+
+				<link>https://feeds.acast.com/public/shows/night-sleep-pod?53435435</link>
+
+			<atom:link href="https://feeds.acast.com/public/shows/65195945d199600011190a86?53435435" rel="self" type="application/rss+xml"/>
+				<language>tr</language>
+
+				<copyright>6767 Muhsin Ünlü</copyright>
+
+				<itunes:keywords>sleep</itunes:keywords>
+
+				<itunes:author>aa67Muhsin Ünlü</itunes:author>
+
+				<itunes:subtitle/>
+
+				<itunes:summary><![CDATA[Night Sleep Pod<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+				<description><![CDATA[Night Sleep Pod<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+				<itunes:explicit>no</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>aa6868 Muhsin Ünlü</itunes:name>
+					<itunes:email>info+65195945d199600011190a86@mg.pippa.io</itunes:email>
+</itunes:owner>
+
+				<acast:showId>65195945d199600011190a86</acast:showId>
+
+				<acast:showUrl>night-sleep-pod</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[esXVl3oU174W9I2FNg4C3A==]]></acast:signature>
+				<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+BvVAqfbv3uD/fNHvNv46HBG+HK3Hgi2R8WdDj9jarHZmQd7V47GWC7rE+EQd0W79VQD8fcOblORnbOvJLDVTJ9hnzYcV7Xq0/pi9NQqRlac/mBTPSwy1iZBgH/ORhl5Ugjn33/0ls4YGQBAyXsH43+a87Qyy1w3HMiLqbWZfDNqvDJ1NwS74xbyEq1OEgGgft4VytrTrZR5n0poAmrssOub3uW2cLqu8hVOcB6cYAVBRY8/cyxsISyDMSJTRlDja/xYk6Zf6YkbCy+Gi6Iak95vLdFgvmfl8QKXKxV5+AqF0Spe7jVMSO4SM95KfekOuLn6KW0UZ0WF5Py8AA4wA8nGSkItofdSs1YkqLL2vSZrK9cQB+K9W90JT/bWucA+MEdNwYzAg4vs7uj7A4KwTsaDph+EkvrdQQ0tdkAFb4HQ3FRZZ0jSSQzpuiXJIEckK6OpCDgibuLQ9uZCtFwKZLA=]]></acast:settings>
+
+			<itunes:image href="https://open-static.acast.com/global/images/default-cover.png"/>
+				<image>
+					<url>https://open-static.acast.com/global/images/default-cover.png</url>
+					<link>https://feeds.acast.com/public/shows/night-sleep-pod</link>
+					<title>Night Sleep Pod</title>
+</image>
+
+				<item>
+						<title>81</title>
+
+						<itunes:title>81</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:35:54 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651967aad1996000111b9a6f/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651967aad1996000111b9a6f</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/adana-escort/</link>
+
+						<acast:episodeId>651967aad1996000111b9a6f</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>81</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW95ieiqDP7l5ZNFHRW2QZ3+cm3hQG0I377n4bOswRswR2OrKtEGoYFac95ClAvkUPRUUWfAeJ47GHEXkjirGiQXE=]]></acast:settings>
+
+						<itunes:subtitle>81</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>81</itunes:episode>
+
+						<description><![CDATA[81<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[81<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>80</title>
+
+						<itunes:title>80</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:35:27 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/6519678f7ded3e0011b10800/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">6519678f7ded3e0011b10800</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/eskisehir-escort/</link>
+
+						<acast:episodeId>6519678f7ded3e0011b10800</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>80</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW91YI9IIovql4uZwPb5Pr0bDiQgT4k3kgMq24KsRYxgPz+DlLVyDw4FTA3jQVi6ZTkNN2lubOYGpd5jL3OVQVmIE=]]></acast:settings>
+
+						<itunes:subtitle>80</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>80</itunes:episode>
+
+						<description><![CDATA[80<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[80<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>79</title>
+
+						<itunes:title>79</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:34:53 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/6519676e7ded3e0011b1023f/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">6519676e7ded3e0011b1023f</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/erzincan-escort/</link>
+
+						<acast:episodeId>6519676e7ded3e0011b1023f</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>79</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9xbvccIwBGKBTezXPpZ/MIddvvrLYI3Z+Pan4dHhiTpPMhjwqt3Zvg87HoCH7KIgZo/6EUHVLtDw/zdfp/XZd3g=]]></acast:settings>
+
+						<itunes:subtitle>79</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>79</itunes:episode>
+
+						<description><![CDATA[79<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[79<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>78</title>
+
+						<itunes:title>78</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:34:29 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651967551488340011ce73d4/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651967551488340011ce73d4</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/ardahan-escort/</link>
+
+						<acast:episodeId>651967551488340011ce73d4</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>78</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9y1g9tOoAnrwsPyMqa/4uXW1izqHjvilwbJ9jmmNZ/dcQs9DNh/JFh/52MXcPIasw660iI9Iq3jnQ9PWc1Ztaq0=]]></acast:settings>
+
+						<itunes:subtitle>78</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>78</itunes:episode>
+
+						<description><![CDATA[78<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[78<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>77</title>
+
+						<itunes:title>77</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:34:07 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/6519673f9f06d00011a5fc4d/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">6519673f9f06d00011a5fc4d</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/karabuk-escort/</link>
+
+						<acast:episodeId>6519673f9f06d00011a5fc4d</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>77</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9zzQrpssgu4c6vSPbaq0UvHkyyVWbcffOtVnzZDjD+hgNPgP3Df7adwTyjojaen7wvUeion/NyI2uCSa+NKpV3M=]]></acast:settings>
+
+						<itunes:subtitle>77</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>77</itunes:episode>
+
+						<description><![CDATA[77<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[77<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>76</title>
+
+						<itunes:title>76</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:33:34 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/6519671eebbe5d0011eda4b6/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">6519671eebbe5d0011eda4b6</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/erzurum-escort/</link>
+
+						<acast:episodeId>6519671eebbe5d0011eda4b6</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>76</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW94gyBw2M9vdLMqgaj+0z5Kf9ihuJ2iGWBRfWIFOUSTVME5LErmydqZ4h3lXYj08A+ABFpvv5u87STGl/AvPphug=]]></acast:settings>
+
+						<itunes:subtitle>76</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>76</itunes:episode>
+
+						<description><![CDATA[76<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[76<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>75</title>
+
+						<itunes:title>75</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:33:09 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65196705d1996000111b7f0f/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65196705d1996000111b7f0f</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/kayseri-escort/</link>
+
+						<acast:episodeId>65196705d1996000111b7f0f</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>75</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9+5i1S8nEVqsvsKKSRAsSv5iGonCNHcOBnLP3dMGm/l4MzyvXemFvTXTuhrA5mT1u2cIo9a7mwqCztU4LQ4ar90=]]></acast:settings>
+
+						<itunes:subtitle>75</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>75</itunes:episode>
+
+						<description><![CDATA[75<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[75<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>74</title>
+
+						<itunes:title>74</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:32:31 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651966dfd257620011330d46/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651966dfd257620011330d46</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/sinop-escort/</link>
+
+						<acast:episodeId>651966dfd257620011330d46</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>74</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW99O9X1mQaSMSgczfhuBovJSekHxU8M6In8O4+j+SlJI//EVo6QqWAEDKwHpA/I32F0PLx82V4k28CILMCbaU3Fg=]]></acast:settings>
+
+						<itunes:subtitle>74</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>74</itunes:episode>
+
+						<description><![CDATA[74<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[74<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>73</title>
+
+						<itunes:title>73</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:31:57 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651966bd7ded3e0011b0e572/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651966bd7ded3e0011b0e572</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/kilis-escort/</link>
+
+						<acast:episodeId>651966bd7ded3e0011b0e572</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>73</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW94E0C/GoL3STlQw7qEXwpVPBeSbEzrE15LAHsyT5zOYZenGEN3a/H1b1NvUFdHwERhqK3arsK3KRJ2uWZ2ueL54=]]></acast:settings>
+
+						<itunes:subtitle>73</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>73</itunes:episode>
+
+						<description><![CDATA[73<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[73<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>72</title>
+
+						<itunes:title>72</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:30:42 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65196672d1a6f90011bbd5cf/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65196672d1a6f90011bbd5cf</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/hakkari-escort/</link>
+
+						<acast:episodeId>65196672d1a6f90011bbd5cf</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>72</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9z0/Fyl61FdsgK78hm0f2B5BArETb5/RBBkLA82qdWDFr4biqAR7tRpd1uv2qYw4kGCJ6UszVnHkb+xdQkTEy7Y=]]></acast:settings>
+
+						<itunes:subtitle>72</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>72</itunes:episode>
+
+						<description><![CDATA[72<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[72<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>71</title>
+
+						<itunes:title>71</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:30:09 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651966519f06d00011a5d30a/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651966519f06d00011a5d30a</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/manisa-escort/</link>
+
+						<acast:episodeId>651966519f06d00011a5d30a</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>71</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW97J5ewsYJYZ+qUQ8f61Vwxxe+8x1TIVE7T/IJikDnRsDNIC2+e7BOShJu2WTwAbqhPBwTVnI+8ifVZMeLAaeSyM=]]></acast:settings>
+
+						<itunes:subtitle>71</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>71</itunes:episode>
+
+						<description><![CDATA[71<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[71<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>70</title>
+
+						<itunes:title>70</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:29:23 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651966237ded3e0011b0c947/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651966237ded3e0011b0c947</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/denizli-escort/</link>
+
+						<acast:episodeId>651966237ded3e0011b0c947</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>70</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9xP24E+Esy9f+4RmVn03nEjK9ZrXDHOH5H2XyzRP3MQfTJh9Iu/9BERcCDZid3mcx0mTijrKCJRTaZxAVWppb78=]]></acast:settings>
+
+						<itunes:subtitle>70</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>70</itunes:episode>
+
+						<description><![CDATA[70<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[70<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>69</title>
+
+						<itunes:title>69</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:28:56 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65196608d1996000111b52e6/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65196608d1996000111b52e6</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/malatya-escort/</link>
+
+						<acast:episodeId>65196608d1996000111b52e6</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>69</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9+NcmJr6FNiyOHNx0Bog39jg82Pv7u4sNliaM70peIo73nHWw+sSW4xInnX+GVwBKHgSfr7nqwOoS8k/nG1hAOw=]]></acast:settings>
+
+						<itunes:subtitle>69</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>69</itunes:episode>
+
+						<description><![CDATA[69<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[69<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>68</title>
+
+						<itunes:title>68</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:28:23 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651965e71488340011ce3486/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651965e71488340011ce3486</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/cankiri-escort/</link>
+
+						<acast:episodeId>651965e71488340011ce3486</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>68</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW95M5MvUVtLM4WeN1+Z9KrGyMuu8/Z5jSVCIA5ZNIVwht9c4HMqkiEX5ElefI8CYEXDuj7Q6dsSEUCvrwAC7c6pE=]]></acast:settings>
+
+						<itunes:subtitle>68</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>68</itunes:episode>
+
+						<description><![CDATA[68<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[68<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>67</title>
+
+						<itunes:title>67</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:27:56 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651965ccd1996000111b4976/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651965ccd1996000111b4976</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/tokat-escort/</link>
+
+						<acast:episodeId>651965ccd1996000111b4976</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>67</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW99uG1Xl4XK0qGi/A/t13RzghRQbDTJ3GzmSg8w9rr6cbdnc6TyRRh6qQjf/WvS4TgEagDbWrnHTFI11VcQgNICQ=]]></acast:settings>
+
+						<itunes:subtitle>67</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>67</itunes:episode>
+
+						<description><![CDATA[67<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[67<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>66</title>
+
+						<itunes:title>66</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:27:31 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651965b3d1a6f90011bbb564/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651965b3d1a6f90011bbb564</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/kastamonu-escort/</link>
+
+						<acast:episodeId>651965b3d1a6f90011bbb564</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>66</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9ztchkh/R7vpcYyx4/agAsagLwGd+787VxTQhEpdcPfrEHy975yrwS0oNgLre8yuAKN0IljX1FYkB941q6NXheU=]]></acast:settings>
+
+						<itunes:subtitle>66</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>66</itunes:episode>
+
+						<description><![CDATA[66<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[66<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>65</title>
+
+						<itunes:title>65</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:26:43 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/6519658386a33a0011482983/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">6519658386a33a0011482983</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/tekirdag-escort/</link>
+
+						<acast:episodeId>6519658386a33a0011482983</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>65</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW91G/8dAwdskdr21W5ZPGFQrqgbEIs2a/C8Gvu1RUJD3whQNSBYouCiLvrcG5uaqtOPAkFmuG4oSUOzj478dhgpc=]]></acast:settings>
+
+						<itunes:subtitle>65</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>65</itunes:episode>
+
+						<description><![CDATA[65<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[65<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>64</title>
+
+						<itunes:title>64</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:26:19 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/6519656bd25762001132cec1/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">6519656bd25762001132cec1</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/gumushane-escort/</link>
+
+						<acast:episodeId>6519656bd25762001132cec1</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>64</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW91M+06reUoVPkNgKx9ypHkG/LdQY849ehFCUkcyTkHFO13hwzimrBwyUgrKxGOs/DqTU2yLcvpfjr2xN3hksTYo=]]></acast:settings>
+
+						<itunes:subtitle>64</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>64</itunes:episode>
+
+						<description><![CDATA[64<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[64<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>63</title>
+
+						<itunes:title>63</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:25:51 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/6519654f936e070011435f12/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">6519654f936e070011435f12</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/ordu-escort/</link>
+
+						<acast:episodeId>6519654f936e070011435f12</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>63</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9+zUOTzklOlhAbsuhOoqEVrRY6NdtJbn92+WS2wF5yt2qqdODp4RHJBKzgVDxV1pUCLCFIzy9WQp3uaM10eKk9Y=]]></acast:settings>
+
+						<itunes:subtitle>63</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>63</itunes:episode>
+
+						<description><![CDATA[63<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[63<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>62</title>
+
+						<itunes:title>62</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:25:25 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65196534d1a6f90011bb9fdc/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65196534d1a6f90011bb9fdc</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/kocaeli-escort/</link>
+
+						<acast:episodeId>65196534d1a6f90011bb9fdc</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>62</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW96QbFJjZgDwrvIeSbGR6uM8v/ZUrJME/LCb5MC9flckFhL4jdS1/ttJpCF/6/6qC5Uq/UmWWoOjgELbU/UaHs8U=]]></acast:settings>
+
+						<itunes:subtitle>62</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>62</itunes:episode>
+
+						<description><![CDATA[62<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[62<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>61</title>
+
+						<itunes:title>61</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:25:02 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/6519651e9f06d00011a59fb2/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">6519651e9f06d00011a59fb2</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/duzce-escort/</link>
+
+						<acast:episodeId>6519651e9f06d00011a59fb2</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>61</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9wHt5lKTKhQYaa9QNQ2LDJWtShUF5d9MTNg3jGXaQ3ar3iZyhUEYWDtee3Cf4gofbiYCfUXmlRgBWw0DH/r+zjI=]]></acast:settings>
+
+						<itunes:subtitle>61</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>61</itunes:episode>
+
+						<description><![CDATA[61<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[61<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>60</title>
+
+						<itunes:title>60</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:22:44 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/6519649486a33a0011480183/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">6519649486a33a0011480183</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/osmaniye-escort/</link>
+
+						<acast:episodeId>6519649486a33a0011480183</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>60</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW98T2j426KZ3ZdoaQweYWoufT7V1vGH6BDpeUPPidgwOt+cv07bgnMjyzR4FVhwQhHHLy1yQJJpdvkeh0qiQV3RY=]]></acast:settings>
+
+						<itunes:subtitle>60</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>60</itunes:episode>
+
+						<description><![CDATA[60<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[60<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>59</title>
+
+						<itunes:title>59</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:21:49 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/6519647cfc8c840012892934/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">6519647cfc8c840012892934</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/isparta-escort/</link>
+
+						<acast:episodeId>6519647cfc8c840012892934</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>a123</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9355FF+6SY1Gf472oKrcjBlZCt3Mjqr1yvGqZjRIZGqBG0fUX/TRxhu5RzS+9AkjG2tTTsrgW2SAI3eAte2bqeM=]]></acast:settings>
+
+						<itunes:subtitle>59</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>59</itunes:episode>
+
+						<description><![CDATA[59<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[59<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>58</title>
+
+						<itunes:title>58</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:21:21 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65196441936e0700114331a1/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65196441936e0700114331a1</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/tunceli-escort/</link>
+
+						<acast:episodeId>65196441936e0700114331a1</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>58</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW93lkJqUZbDWgqDlhXqWrH1U0Kxu64GdZQXhv2oVhdopAeB7uG1uoYQLxfq6IiijPR0XykdWrq5s4Jv5SVJM6UIw=]]></acast:settings>
+
+						<itunes:subtitle>58</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>58</itunes:episode>
+
+						<description><![CDATA[58<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[58<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>57</title>
+
+						<itunes:title>57</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:20:57 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651964292843410011067d0f/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651964292843410011067d0f</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/yozgat-escort/</link>
+
+						<acast:episodeId>651964292843410011067d0f</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>57</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW968gQwuIRz8hsvxwzhzwQdSO1ZRbyUpfW2J28E2+RV+zcSma9yAA1InP5qaqWqp01tFonCgdESqS6ksRlPQmdr4=]]></acast:settings>
+
+						<itunes:subtitle>57</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>57</itunes:episode>
+
+						<description><![CDATA[57<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[57<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>56</title>
+
+						<itunes:title>56</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:20:33 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65196411d25762001132917d/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65196411d25762001132917d</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/corum-escort/</link>
+
+						<acast:episodeId>65196411d25762001132917d</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>56</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW96Y+ycXmqmYvTJvvAvrwu/skXlB9KUu+EtQonT/y40VHlFWjDiw6NjNRT+fENn9SFosVx2C69lmlIc8NZ2RLix8=]]></acast:settings>
+
+						<itunes:subtitle>56</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>56</itunes:episode>
+
+						<description><![CDATA[56<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[56<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>55</title>
+
+						<itunes:title>55</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:19:57 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651963edc8d4ce0011783d53/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651963edc8d4ce0011783d53</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/konya-escort/</link>
+
+						<acast:episodeId>651963edc8d4ce0011783d53</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>55</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW97jRkf/yx6HnT1xPL7mb1SZlRTNKtlzMN8zd3UoXNMuDyy67C25KPJQrf9GRhUg55XdhQx+YrNIlkOuwfEaXW64=]]></acast:settings>
+
+						<itunes:subtitle>55</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>55</itunes:episode>
+
+						<description><![CDATA[55<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[55<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>54</title>
+
+						<itunes:title>54</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:19:36 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651963d87ded3e0011b06355/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651963d87ded3e0011b06355</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/bayburt-escort/</link>
+
+						<acast:episodeId>651963d87ded3e0011b06355</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>54</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9+NPCOLTlum1WfibQoWzV9cojbOF8S9KPCiklTZRsR4JwqafWEDfcyGsM99TFzkMdU0BCTdtXaEs9eE7ifosV1A=]]></acast:settings>
+
+						<itunes:subtitle>54</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>54</itunes:episode>
+
+						<description><![CDATA[54<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[54<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>53</title>
+
+						<itunes:title>53</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:19:10 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651963be86a33a001147d76c/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651963be86a33a001147d76c</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/kars-escort/</link>
+
+						<acast:episodeId>651963be86a33a001147d76c</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>53</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9+YH9cclJwpKYNtxMmJVSNYa/gLADtPBwj/d1HbAvX3Ey7q/ZvaeHiiof8i7aeKmsz7s5SzDWoGbBYwL8OC8yeM=]]></acast:settings>
+
+						<itunes:subtitle>53</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>53</itunes:episode>
+
+						<description><![CDATA[53<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[53<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>52</title>
+
+						<itunes:title>52</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:18:43 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651963a386a33a001147d1ce/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651963a386a33a001147d1ce</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/batman-escort/</link>
+
+						<acast:episodeId>651963a386a33a001147d1ce</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>52</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9xC4/Yy4xV5r0TIJ+VizOj1c6K/+wP7DZPAl360LWWA0Cwx8iROt3+udftAMPerGT9HkWxryzhPT9St5bUVAHhw=]]></acast:settings>
+
+						<itunes:subtitle>52</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>52</itunes:episode>
+
+						<description><![CDATA[52<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[52<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>51</title>
+
+						<itunes:title>51</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:18:02 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/6519637ac8d4ce001178259e/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">6519637ac8d4ce001178259e</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/urfa-escort/</link>
+
+						<acast:episodeId>6519637ac8d4ce001178259e</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>51</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW96jOrcd+p+Dsx/yPvfZ3P8WJ4zknvVU8z1wsY4qMPCW0ovKaXKteykrkma7LEMxrE7/yo4g8myo2AtARmR16iHQ=]]></acast:settings>
+
+						<itunes:subtitle>51</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>51</itunes:episode>
+
+						<description><![CDATA[51<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[51<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>50</title>
+
+						<itunes:title>50</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:17:34 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/6519635e1488340011cdbdb6/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">6519635e1488340011cdbdb6</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/izmir-escort/</link>
+
+						<acast:episodeId>6519635e1488340011cdbdb6</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>50</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW92XHFn+Sm3dHybn4lWcUTwRrz9tiLexHO0soc87knffqWD+sfaQ1CHDBHHgOYjI7pVqMmlYiMBl1MeVY6DGLB/s=]]></acast:settings>
+
+						<itunes:subtitle>50</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>50</itunes:episode>
+
+						<description><![CDATA[50<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[50<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>49</title>
+
+						<itunes:title>49</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:16:54 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651963361488340011cdb52d/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651963361488340011cdb52d</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/burdur-escort/</link>
+
+						<acast:episodeId>651963361488340011cdb52d</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>49</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW97+getwuoEMlCGrnt1gtEyd7MwvvWx21jaQJeHB1RZ9fueD0/ryx0BW0684qbpQmb0hVN3rNXgdIRAtfwCKoOAM=]]></acast:settings>
+
+						<itunes:subtitle>49</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>49</itunes:episode>
+
+						<description><![CDATA[49<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[49<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>48</title>
+
+						<itunes:title>48</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:16:08 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65196308c8d4ce0011780d9d/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65196308c8d4ce0011780d9d</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/giresun-escort/</link>
+
+						<acast:episodeId>65196308c8d4ce0011780d9d</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>48</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9+51G6OR1hGk5cg1cxys6LHLwi/TfCz0LvAZmqG9eC8uot7uXe8qgAbEDy2hVqZGMo1mmX06hi+97VyCoLoePes=]]></acast:settings>
+
+						<itunes:subtitle>48</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>48</itunes:episode>
+
+						<description><![CDATA[48<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[48<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>47</title>
+
+						<itunes:title>47</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:15:31 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651962e3c8d4ce0011780703/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651962e3c8d4ce0011780703</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/sakarya-escort/</link>
+
+						<acast:episodeId>651962e3c8d4ce0011780703</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>47</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW932CSEd+1Shn/qyIY0rZqL21ws6eL0rh5nOxpAOjCJElMwgrbXciymHogWGiFJzoajkhk9bQVsKo55ZDRS6vM1Q=]]></acast:settings>
+
+						<itunes:subtitle>47</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>47</itunes:episode>
+
+						<description><![CDATA[47<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[47<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>46</title>
+
+						<itunes:title>46</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:14:57 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651962c186a33a001147a371/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651962c186a33a001147a371</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/artvin-escort/</link>
+
+						<acast:episodeId>651962c186a33a001147a371</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>46</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW96L1jBgXJN+E3S8S+E05jB0Z5DmDs9dLF6zN14/32lAn36+noCS9qJtFFQ8pyS+UAbH5Ua7cSmWbFkVSn12OIes=]]></acast:settings>
+
+						<itunes:subtitle>46</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>46</itunes:episode>
+
+						<description><![CDATA[46<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[46<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>44</title>
+
+						<itunes:title>44</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:11:56 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/6519620c86a33a0011478350/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">6519620c86a33a0011478350</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/mardin-escort/</link>
+
+						<acast:episodeId>6519620c86a33a0011478350</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>44</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW96b3JH2a+bph9jDz9SFfvJJ0RxL9imMyts57X6MyyiytsttNIGNaIgSaE0duK1T23O4KbYX3bq8nv+7wD1tgqvE=]]></acast:settings>
+
+						<itunes:subtitle>44</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>44</itunes:episode>
+
+						<description><![CDATA[44<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[44<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>43</title>
+
+						<itunes:title>43</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:11:22 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651961ea7ded3e0011b0045d/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651961ea7ded3e0011b0045d</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/agri-escort/</link>
+
+						<acast:episodeId>651961ea7ded3e0011b0045d</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>43</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9/rbo6TNTWHZj6+3clgzMpPGCn9Rf4VRB6ZDbE/Y3/3swtvkSv3MyZlojvrpSK7vZlsePh+h76nezU9yU4MR0ns=]]></acast:settings>
+
+						<itunes:subtitle>43</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>43</itunes:episode>
+
+						<description><![CDATA[43<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[43<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>42</title>
+
+						<itunes:title>42</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:10:58 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651961d17ded3e0011afffbd/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651961d17ded3e0011afffbd</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/diyarbakir-escort/</link>
+
+						<acast:episodeId>651961d17ded3e0011afffbd</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>42</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9yVtJKbOeKiOpWqclAHL13CmemVBDRRrEN8vdnerDqt94lZV6/gGurWdbzJtxKXpZYt4+h05ZTOOV6T40SiuV1E=]]></acast:settings>
+
+						<itunes:subtitle>42</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>42</itunes:episode>
+
+						<description><![CDATA[42<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[42<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>41</title>
+
+						<itunes:title>41</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:10:36 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651961bc1488340011cd7010/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651961bc1488340011cd7010</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/bolu-escort/</link>
+
+						<acast:episodeId>651961bc1488340011cd7010</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>41</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW98IMIDFi1XnxpnDeMVf+PnGdwxQM8I5pHYiwWgfM5j47+Wa4/GK8OHBcUHq3gz8BHq8ZdZRQIPYvesEG8NHYOvw=]]></acast:settings>
+
+						<itunes:subtitle>41</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>41</itunes:episode>
+
+						<description><![CDATA[41<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[41<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>40</title>
+
+						<itunes:title>40</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:10:07 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/6519619f1488340011cd6a4a/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">6519619f1488340011cd6a4a</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/elazig-escort/</link>
+
+						<acast:episodeId>6519619f1488340011cd6a4a</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>40</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9zKWmtaF7wSa5nxGQWu3m9QYSDYncWCYKKdVIPBd4Md1Tea2jydsG6NcVGNjp406tF0qTwdEwEMl5IQnU8jTGyA=]]></acast:settings>
+
+						<itunes:subtitle>40</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>40</itunes:episode>
+
+						<description><![CDATA[40<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[40<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>39</title>
+
+						<itunes:title>39</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:09:30 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/6519617ac8d4ce001177c5b9/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">6519617ac8d4ce001177c5b9</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/siirt-escort/</link>
+
+						<acast:episodeId>6519617ac8d4ce001177c5b9</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>39</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9wp2v9bIUfCuvSntb+EGpPQGxLzNEEGQ+RA4mDnhRVieChdkieXTzqQa6Il3mjv+dtJZANH/UjHS5bddSY8bNqk=]]></acast:settings>
+
+						<itunes:subtitle>39</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>39</itunes:episode>
+
+						<description><![CDATA[39<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[39<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>38</title>
+
+						<itunes:title>38</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:08:31 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/6519613fc8d4ce001177bc70/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">6519613fc8d4ce001177bc70</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/bursa-escort/</link>
+
+						<acast:episodeId>6519613fc8d4ce001177bc70</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>38</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW93tT1g8jkV2Hfti3w7MPMSq+P/JQ9lZLffsxlVNPVx5e6bJrD0bLTnLG0QJ4fGqPWMuHQqju3hutZS35d7PF8xQ=]]></acast:settings>
+
+						<itunes:subtitle>38</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>38</itunes:episode>
+
+						<description><![CDATA[38<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[38<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>37</title>
+
+						<itunes:title>37</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:08:02 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65196122936e07001142985f/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65196122936e07001142985f</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/kirsehir-escort/</link>
+
+						<acast:episodeId>65196122936e07001142985f</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>37</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW93fYZzsQObX5MVOek68TSCFQhvVLcTdg6pADpK0Ngqs1qQrNigbFG/3J98yoYwRqHOploZoqGAM8CIVI+a8U2FA=]]></acast:settings>
+
+						<itunes:subtitle>37</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>37</itunes:episode>
+
+						<description><![CDATA[37<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[37<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>36</title>
+
+						<itunes:title>36</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 12:00:08 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195f48ebbe5d0011ec3c03/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195f48ebbe5d0011ec3c03</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/mus-escort/</link>
+
+						<acast:episodeId>65195f48ebbe5d0011ec3c03</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>36</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9zEBVUpqQUx9hj5TGiBq5XQyVQS60DrBhNPZLjvHyGFn0LhJTDZyrxfc6O22FuP5LGyyYx2701K0nasekWMI6Ts=]]></acast:settings>
+
+						<itunes:subtitle>36</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>36</itunes:episode>
+
+						<description><![CDATA[36<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[36<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>35</title>
+
+						<itunes:title>35</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:59:42 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195f2e1488340011ccf659/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195f2e1488340011ccf659</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/canakkale-escort/</link>
+
+						<acast:episodeId>65195f2e1488340011ccf659</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>35</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9/25iCQcCvwtqnHg2L2xZPk/jcG3IFjYBKoHTlN+l5WRqUX91Qlwmuz30+IGKAFIpe+789gAJSGX2SO0vrXFwDY=]]></acast:settings>
+
+						<itunes:subtitle>35</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>35</itunes:episode>
+
+						<description><![CDATA[35<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[35<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>34</title>
+
+						<itunes:title>34</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:59:09 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195f0d936e0700114235ec/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195f0d936e0700114235ec</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/mersin-escort/</link>
+
+						<acast:episodeId>65195f0d936e0700114235ec</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>34</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9+VnSv+7u/pFN/IaJ9l7UEtWm/CHxE7BLrXYuPv4VjGhECLHDczB9QoDkJyhboGnNaGuHwRZkdr2R4MaFUrpkFo=]]></acast:settings>
+
+						<itunes:subtitle>34</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>34</itunes:episode>
+
+						<description><![CDATA[34<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[34<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>33</title>
+
+						<itunes:title>33</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:58:43 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195ef3d257620011319cbf/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195ef3d257620011319cbf</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/samsun-escort/</link>
+
+						<acast:episodeId>65195ef3d257620011319cbf</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>33</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW987Gc7Af7JqvDmoZxCuuszwbBR84wHo/TY4IcuqeTvz8fCckUJTgkr/qmWgE7RbsYk3kEhe6kvPDcl2IDCCW/5k=]]></acast:settings>
+
+						<itunes:subtitle>33</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>33</itunes:episode>
+
+						<description><![CDATA[33<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[33<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>32</title>
+
+						<itunes:title>32</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:58:22 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195ede1488340011cce808/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195ede1488340011cce808</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/nevsehir-escort/</link>
+
+						<acast:episodeId>65195ede1488340011cce808</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>32</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW98IWaUKs+uP06ocM15lCfMW/2GwUQ2/rN8TyPHyhPpocenP1UsyWK4u6zDZkwyRziZMvqPNqFFNG4fHkC1rTnhE=]]></acast:settings>
+
+						<itunes:subtitle>32</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>32</itunes:episode>
+
+						<description><![CDATA[32<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[32<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>31</title>
+
+						<itunes:title>31</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:58:01 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195ec81488340011cce492/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195ec81488340011cce492</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/van-escort/</link>
+
+						<acast:episodeId>65195ec81488340011cce492</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>31</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW978/Ble/UGPfQF1gOnhYCXz0zuNo6livGvp5rKITF16yh2hqHq7JqIbqRh9pqyiWDbUkKn1LR93ocjRgrvZifuM=]]></acast:settings>
+
+						<itunes:subtitle>31</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>31</itunes:episode>
+
+						<description><![CDATA[31<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[31<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>30</title>
+
+						<itunes:title>30</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:57:34 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195eaed1a6f90011ba6dee/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195eaed1a6f90011ba6dee</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/bartin-escort/</link>
+
+						<acast:episodeId>65195eaed1a6f90011ba6dee</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>30</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW97McITdSF+xCyTmZ4ZXQlW1hAnT9lHIIVHz9u9ZhAnS+GYfMcLiNk1O0Ch+4L+MJCFdhL7rcjNB+XQAViIQCdNI=]]></acast:settings>
+
+						<itunes:subtitle>30</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>30</itunes:episode>
+
+						<description><![CDATA[30<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[30<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>29</title>
+
+						<itunes:title>29</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:57:05 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195e911488340011ccdb7e/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195e911488340011ccdb7e</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/edirne-escort/</link>
+
+						<acast:episodeId>65195e911488340011ccdb7e</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>29</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW91cmWJveEsR+kcaOA4x3/bbYQOazoYlHwWNHxcX9aXzGVzMF/hrOMNF0X1BrEWYefrs54jAqccZfGE2eDeRgl7U=]]></acast:settings>
+
+						<itunes:subtitle>29</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>29</itunes:episode>
+
+						<description><![CDATA[29<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[29<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>28</title>
+
+						<itunes:title>28</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:56:37 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195e7586a33a001146de09/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195e7586a33a001146de09</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/afyon-escort/</link>
+
+						<acast:episodeId>65195e7586a33a001146de09</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>28</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW95vuL5X+1K3suDIybkjKBAGFSSklzOL8CrX9fPqA/Bddb1hdUQ369IV7mzQUwvBViSdmNJIhluZGwhUfp8MXWH8=]]></acast:settings>
+
+						<itunes:subtitle>28</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>28</itunes:episode>
+
+						<description><![CDATA[28<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[28<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>27</title>
+
+						<itunes:title>27</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:56:09 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195e59ebbe5d0011ec1017/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195e59ebbe5d0011ec1017</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/balikesir-escort/</link>
+
+						<acast:episodeId>65195e59ebbe5d0011ec1017</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>27</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9yDj0EJuHK4QLjqhWXLDymlUl/QHPjudA0zcXEkcA0PLuSGb9e92tbSKAmedwy48fSEVK9D8ue736AjHPhqJRUQ=]]></acast:settings>
+
+						<itunes:subtitle>27</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>27</itunes:episode>
+
+						<description><![CDATA[27<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[27<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>26</title>
+
+						<itunes:title>26</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:49:58 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195ce6fc8c84001287c2e1/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195ce6fc8c84001287c2e1</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/kirklareli-escort/</link>
+
+						<acast:episodeId>65195ce6fc8c84001287c2e1</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>26</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9w+NZ27gWGH3V9+P4E5woTfxEWQhADT6VLRDb1a1BIWhUkGUK7h0NvuT5HTW1aAyIjCUFz+nHrx4uVMds2x23Zc=]]></acast:settings>
+
+						<itunes:subtitle>26</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>26</itunes:episode>
+
+						<description><![CDATA[26<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[26<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>25</title>
+
+						<itunes:title>25</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:49:34 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195ccec8d4ce001176efe3/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195ccec8d4ce001176efe3</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/amasya-escort/</link>
+
+						<acast:episodeId>65195ccec8d4ce001176efe3</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>25</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW91hdLsqlIpW8M4qZK0ehw5N2rJZj3okfSL26lTm2eryPpdNF11gOZPaKVH5t/+8gMeSTt3AWkKAxfu9+H5ztnY4=]]></acast:settings>
+
+						<itunes:subtitle>25</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>25</itunes:episode>
+
+						<description><![CDATA[25<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[25<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>24</title>
+
+						<itunes:title>24</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:48:52 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195ca4d19960001119a04d/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195ca4d19960001119a04d</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/bilecik-escort/</link>
+
+						<acast:episodeId>65195ca4d19960001119a04d</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>24</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW91c2WI/vuLebLWwxmRtyX9q/9pSbihxvJHDdfaRRYLMz5noC5UR3TndoR2Qcq3MqzxYNo8us2kslIJwhlIUBKnI=]]></acast:settings>
+
+						<itunes:subtitle>24</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>24</itunes:episode>
+
+						<description><![CDATA[24<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[24<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>23</title>
+
+						<itunes:title>23</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:48:29 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195c8c936e07001141c327/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195c8c936e07001141c327</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/usak-escort/</link>
+
+						<acast:episodeId>65195c8c936e07001141c327</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>23</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW99//4557iIoJcW+YDWE0rCvawtCmM63exRS/Ihw1/Ivga/snJqVjBGQ8FA5SsRBr5IDfL3llQVoDXPLRaqMu8ho=]]></acast:settings>
+
+						<itunes:subtitle>23</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>23</itunes:episode>
+
+						<description><![CDATA[23<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[23<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>22</title>
+
+						<itunes:title>22</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:48:04 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195c74ebbe5d0011ebb7e7/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195c74ebbe5d0011ebb7e7</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/ankara-escort/</link>
+
+						<acast:episodeId>65195c74ebbe5d0011ebb7e7</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>22</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW99TVRBxOiNUTuMBZh7Nnl0qpDGEBoqPt6Yn342gji6KMDSahqWvxY5ojXSVVqlxFrFUmdPjQf6yy6Pe0R17JYH4=]]></acast:settings>
+
+						<itunes:subtitle>22</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>22</itunes:episode>
+
+						<description><![CDATA[22<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[22<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>21</title>
+
+						<itunes:title>21</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:47:44 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195c601488340011cc7563/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195c601488340011cc7563</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/adiyaman-escort/</link>
+
+						<acast:episodeId>65195c601488340011cc7563</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>21</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9+bk7l+8NjMaY9PDq58ddllE/icUHN0+eUacOxghvIM/qPtV1RHS51sAaSVM3Jeixkp7e1aUeDUPHv9HrtbIbuM=]]></acast:settings>
+
+						<itunes:subtitle>21</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>21</itunes:season>
+
+						<itunes:episode>21</itunes:episode>
+
+						<description><![CDATA[21<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[21<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>20</title>
+
+						<itunes:title>20</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:47:16 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195c4486a33a001146788f/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195c4486a33a001146788f</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/hatay-escort/</link>
+
+						<acast:episodeId>65195c4486a33a001146788f</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>20</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW91zsTPnH6PaecVzfontpehMg5AihH+ye9uq2FyBc2kqCUVp0fGXBul47wO8NSkOAu2LgKmoywEUX317s37rycQs=]]></acast:settings>
+
+						<itunes:subtitle>20</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>20</itunes:episode>
+
+						<description><![CDATA[20<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[20<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>19</title>
+
+						<itunes:title>19</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:46:50 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195c2a28434100110501cb/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195c2a28434100110501cb</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/sirnak-escort/</link>
+
+						<acast:episodeId>65195c2a28434100110501cb</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>19</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9zA6ee48XpqMYYdaN3x39am5eVob8nzHIBjRbXwyJEasgyfXtSRwQscmpQMaNQ+uY3+KWl7bc3Z8wVFbv8KEoHM=]]></acast:settings>
+
+						<itunes:subtitle>19</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>19</itunes:episode>
+
+						<description><![CDATA[19<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[19<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>18</title>
+
+						<itunes:title>18</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:46:27 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195c131488340011cc66b5/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195c131488340011cc66b5</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/istanbul-escort/</link>
+
+						<acast:episodeId>65195c131488340011cc66b5</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>18</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW90nI0yzcbqMRn1jh/YbFt9vEO1WggsAJ6ywQ50Udv0ljFR7Wcuj8dDDTZpRIrkdSq0b2QmuUPE4LkLeh66PRyUA=]]></acast:settings>
+
+						<itunes:subtitle>18</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>18</itunes:episode>
+
+						<description><![CDATA[18<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[18<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>17</title>
+
+						<itunes:title>17</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:46:04 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195bfb9f06d00011a3f2d9/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195bfb9f06d00011a3f2d9</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/sivas-escort/</link>
+
+						<acast:episodeId>65195bfb9f06d00011a3f2d9</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>17</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9/WKSlIh/NDfxeL7CzYSzaGWNNdgjpw3TlA85Lz6N1yJu0Lon6eNKsg4RrDPZzgFEq5ooIYfcwYL0vvySS7RIEQ=]]></acast:settings>
+
+						<itunes:subtitle>17</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>17</itunes:episode>
+
+						<description><![CDATA[17<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[17<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>16</title>
+
+						<itunes:title>16</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:45:39 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195be286a33a00114666f7/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195be286a33a00114666f7</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/kirikkale-escort/</link>
+
+						<acast:episodeId>65195be286a33a00114666f7</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>16</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW95/Ds5+rjr9kn4BY7VE4UEMs81+sv0rXJonjASbDQ/sFWXi+zsDq+RhRvr00/LTDa+WqlJWb1FlDd16Lnib6aAs=]]></acast:settings>
+
+						<itunes:subtitle>16</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>16</itunes:episode>
+
+						<description><![CDATA[16<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[16<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>15</title>
+
+						<itunes:title>15</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:45:04 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195bc0d257620011310836/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195bc0d257620011310836</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/zonguldak-escort/</link>
+
+						<acast:episodeId>65195bc0d257620011310836</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>15</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9x1PU1+/eSPhdTESxeBm2w57amiI6wIsbYgfOz/slFmKPw0d9dCXFYpPIZFXbHGINtuCggKi2StxAegi+EOyUiE=]]></acast:settings>
+
+						<itunes:subtitle>15</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>15</itunes:episode>
+
+						<description><![CDATA[15<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[15<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>14</title>
+
+						<itunes:title>14</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:44:40 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195ba8284341001104ea5e/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195ba8284341001104ea5e</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/igdir-escort/</link>
+
+						<acast:episodeId>65195ba8284341001104ea5e</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>14</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW967UL1si23hUYtJ5zOppFqWsJEdQnJTz7DBb4UG1EkR73/MqmfZUXi0+5XNWBdUmkGZKD0fzJisXmI85H+oIxTA=]]></acast:settings>
+
+						<itunes:subtitle>14</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>14</itunes:episode>
+
+						<description><![CDATA[14<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[14<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>13</title>
+
+						<itunes:title>13</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:44:18 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195b929f06d00011a3df73/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195b929f06d00011a3df73</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/aksaray-escort/</link>
+
+						<acast:episodeId>65195b929f06d00011a3df73</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>13</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9+Y1hFYsvWozR92p/yTE0CBEx0rUzW7PLsZMImTgaQs8uVvYaRXP/dKtPvlVhqT++10Wj00ylpdIvrG2Yk1V5hI=]]></acast:settings>
+
+						<itunes:subtitle>13</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>13</itunes:episode>
+
+						<description><![CDATA[13<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[13<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>12</title>
+
+						<itunes:title>12</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:43:54 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195b7a1488340011cc4bc5/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195b7a1488340011cc4bc5</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/aydin-escort/</link>
+
+						<acast:episodeId>65195b7a1488340011cc4bc5</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>12</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9xCD91CqpeKxTv9vCJckSaMXvvfecxxCf4fwPuqZaziqoiS2U3Ftf3aSkeJXlWugD8E5qyncq6whioM318VL3oI=]]></acast:settings>
+
+						<itunes:subtitle>12</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>12</itunes:episode>
+
+						<description><![CDATA[12<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[12<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>11</title>
+
+						<itunes:title>11</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:43:33 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195b64fc8c840012877c48/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195b64fc8c840012877c48</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/kutahya-escort/</link>
+
+						<acast:episodeId>65195b64fc8c840012877c48</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>11</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW96xXhvIjNz8O7mXxV5KJ4sE4E66uYkkpAxgg379O/gIfAL8y3F8Wyw8fH21xytmjFAeTE2vhnIZpJ2NSpMjKs6o=]]></acast:settings>
+
+						<itunes:subtitle>11</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>11</itunes:episode>
+
+						<description><![CDATA[11<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[11<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>10</title>
+
+						<itunes:title>10</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:42:36 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195b2cd199600011195d92/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195b2cd199600011195d92</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/rize-escort/</link>
+
+						<acast:episodeId>65195b2cd199600011195d92</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>10</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW96fqiiqxnfIyk1GM+9hBY8roOfeIN8CkNhiqkROiXaGBhfDlT+k5s2KeuLlIn2aDfR9xU4mT6Vz0OgS1FNr0ImM=]]></acast:settings>
+
+						<itunes:subtitle>10</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>10</itunes:episode>
+
+						<description><![CDATA[10<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[10<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>9</title>
+
+						<itunes:title>9</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:41:30 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195aead1a6f90011b9c2f9/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195aead1a6f90011b9c2f9</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/bingol-escort/</link>
+
+						<acast:episodeId>65195aead1a6f90011b9c2f9</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>9</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW92d0cN4nQ2AbHeTGpvG8PeZCBU3y6yDcnM7go058ULNVSEwXVLG80z0DYXP4el0+S6q9ggiUIoYPqpdp3EZHFWs=]]></acast:settings>
+
+						<itunes:subtitle>9</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>9</itunes:episode>
+
+						<description><![CDATA[9<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[9<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>8</title>
+
+						<itunes:title>8</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:41:05 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195ad1d1a6f90011b9be36/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195ad1d1a6f90011b9be36</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/antalya-escort/</link>
+
+						<acast:episodeId>65195ad1d1a6f90011b9be36</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>8</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9xWWCfMLUsiCDtfpjr83mAG/PKO+k2XO7CzilDMh4sgVOAPR9pRRu23doNAs/ANVOHYDbLdZybP271w1R+TxNCw=]]></acast:settings>
+
+						<itunes:subtitle>8</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>8</itunes:episode>
+
+						<description><![CDATA[8<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[8<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>7</title>
+
+						<itunes:title>7</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:40:08 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195a98284341001104bac0/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195a98284341001104bac0</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/trabzon-escort/</link>
+
+						<acast:episodeId>65195a98284341001104bac0</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>7</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW91XjTQH+4FnsMo9OXRjS08n21Ow7PYmXjwOY7Zme9k8Q5LzJ1OtcoHwY9WuyAT8df+O4CB9SyBXDrK5XAFZzYKQ=]]></acast:settings>
+
+						<itunes:subtitle>7</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>7</itunes:episode>
+
+						<description><![CDATA[7<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[7<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>6</title>
+
+						<itunes:title>6</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:39:10 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195a5e284341001104b0b0/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195a5e284341001104b0b0</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/nigde-escort/</link>
+
+						<acast:episodeId>65195a5e284341001104b0b0</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>6</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW93zeRlivt8kbrgGrAz0eVu4hqFDZzJ2PFs4CDlaQ3gTcvp+e+yFu6ycNuQNNTjccT4gajd9xQu7k0dDLx9jaoWw=]]></acast:settings>
+
+						<itunes:subtitle>6</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>6</itunes:episode>
+
+						<description><![CDATA[6<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[6<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>5</title>
+
+						<itunes:title>5</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:38:43 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195a439f06d00011a3a48d/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195a439f06d00011a3a48d</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/maras-escort/</link>
+
+						<acast:episodeId>65195a439f06d00011a3a48d</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>5</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9w6uv3XoBJTcEC2yZD+t00PDaOFeU1MbkjmOx81CFQMV/jIxkiuxPaIkwnnrRzpmceR24Cj5jrTPjuGBQe47PO8=]]></acast:settings>
+
+						<itunes:subtitle>5</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>5</itunes:episode>
+
+						<description><![CDATA[5<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[5<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>4</title>
+
+						<itunes:title>4</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:38:17 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/65195a299f06d00011a39fd8/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">65195a299f06d00011a39fd8</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/antep-escort/</link>
+
+						<acast:episodeId>65195a299f06d00011a39fd8</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>4</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW99sxfVObJrqKkSN95mtYXjx/rSt0BE0n1AfAdUMAzjAwxVAEKZUGGoLbxbtjHgOxtChuyNdzz5yDRFshEhbEga4=]]></acast:settings>
+
+						<itunes:subtitle>4</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>4</itunes:episode>
+
+						<description><![CDATA[4<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[4<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>3</title>
+
+						<itunes:title>3</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:37:29 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651959f9936e07001141514f/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651959f9936e07001141514f</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/mugla-escort/</link>
+
+						<acast:episodeId>651959f9936e07001141514f</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>3</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9xO/FbioEc9qZ3cUY+gvu59qvCkyHTJaZAe8gr+sjggE5okLdkSRLKf7Acb5ALCRCwIiBJPAS3Uo3gtjXat+G1E=]]></acast:settings>
+
+						<itunes:subtitle>3</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>3</itunes:episode>
+
+						<description><![CDATA[3<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[3<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>2</title>
+
+						<itunes:title>2</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:37:06 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651959e22843410011049c82/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651959e22843410011049c82</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/bitlis-escort/</link>
+
+						<acast:episodeId>651959e22843410011049c82</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>2</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW95z/svNQatn1Mj9OySdTjxeIamihxKfn5QnG1mBVWScxXwlC6HbbT9ToF4slS0yD9xECF//3OT7IeEXqmh/hikQ=]]></acast:settings>
+
+						<itunes:subtitle>2</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>2</itunes:episode>
+
+						<description><![CDATA[2<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[2<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>1</title>
+
+						<itunes:title>1</itunes:title>
+
+						<pubDate>Sun, 01 Oct 2023 11:36:38 GMT</pubDate>
+
+						<itunes:duration>2:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/65195945d199600011190a86/e/651959c686a33a0011460b23/media.mp3" length="4250829" type="audio/mpeg"/>
+					<guid isPermaLink="false">651959c686a33a0011460b23</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://bayanlarsitesi.com/karaman-escort/</link>
+
+						<acast:episodeId>651959c686a33a0011460b23</acast:episodeId>
+
+						<acast:showId>65195945d199600011190a86</acast:showId>
+
+						<acast:episodeUrl>1</acast:episodeUrl>
+
+						<acast:settings><![CDATA[syAWDayMd41iKmu+Aly8+EYj+tJuDBJd7OphM0kBaXPzdryjYQaVrFyVQwDL5+tUFcFHtVg5snFMOIZQsNQSexb7iFPxa8oqyBZ3qsZSzlFbITG4Dqhc/SvdQAfDOqAUdHfiyW04OsrSTpJdaZ6AR+tkTV43mqC2ZbNtR8W+r8u08DVyPPD9MkA/JJKWRhYC/z1K5nQdCiaCT7ZqGYQq6kBHH/lVVcFH3LAJMcfxv8ctYRk+gHUD6gAFpDMfInFTF7DYIHs/Tlps1CfJJ53XE+q4p/eLpkpY+78ZcRkYmA+76WnR1a9GyvAjTwXh1Dw/Rl27TlfaCf0EFWAwVIwSYPDVxXAQUbyM3z5nkHlxac9Acbi6RPnGRtmiYx1GHEqhFmuNvFDzqDLiVMJo9gaVz7bnIdWObJ1XAuwMOzrBV9OWyOA9cPghG7pZLR3QdxRwdcKHbenWYMtb+klk5UXW9+5SWuso3VUYcyDuzgNQdLysuLoyjufm4dek4S44VwrHI/a1IgGWs1O5NYjBcGRdNvHXz0IiVUBjeVexoX7sDaU=]]></acast:settings>
+
+						<itunes:subtitle>1</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>1</itunes:episode>
+
+						<description><![CDATA[1<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[1<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+			<itunes:category text="Music"/>
+			<itunes:category text="Arts"/>
+</channel>
+
+</rss>
